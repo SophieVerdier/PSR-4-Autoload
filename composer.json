@@ -1,0 +1,16 @@
+{
+    "name": "verdier/composer",
+    "description": "Projet quete composer",
+    "autoload": {
+        "psr-4": {
+            "App\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "SOPHIE VERDIER",
+            "email": "sophie.verdier188@gmail.com"
+        }
+    ],
+    "require": {}
+}
